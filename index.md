@@ -2,7 +2,7 @@
 title: Home
 layout: home
 ---
-IS THIS THE BARE MINIMUM CHANGE?
+
 Welcome to the UV-K5(8) / UV-K6 Quick Start Guide!
 
 A quick summary of the goals of this site.
