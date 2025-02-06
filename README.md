@@ -1,4 +1,6 @@
-# just-the-docs-template
+# What's Going On Here
+
+This is the github source code repository for my UV-K5 Quick Start Guide: documentation to use the [uv-k5-firmware-custom](https://github.com/armel/uv-k5-firmware-custom) firmware.
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
