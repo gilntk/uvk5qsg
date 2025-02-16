@@ -1,5 +1,5 @@
 ---
-title: Install Chirp First
+title: Get CHIRP First
 nav_order: 3
 layout: default
 ---
