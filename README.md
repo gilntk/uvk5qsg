@@ -2,6 +2,10 @@
 
 This is the github source code repository for my UV-K5 Quick Start Guide: documentation to use the [uv-k5-firmware-custom](https://github.com/armel/uv-k5-firmware-custom) firmware on your radio. This documentation is aimed at the radio and github novice. It also aims to bring the dozens of resources together and present them in a reader-friendly format. 
 
+# Connections and dependencies
+
+This project is based on the [uv-k5-firmware-custom](https://github.com/armel/uv-k5-firmware-custom) project. This project creates new documentation about the source project in a form that targets a more novice audience. This project is not connected with the parent project in any way, but wholly dependent on its existance. 
+
 # Ulterior Goals of this Project
 I have to state that I'm also using this project as a way to get hands on experience with github and github pages. Giving proper attribution to people, their code, and their compiled code is new to me. If I've done anything wrong, please send me a note and I will promptly make updates and give credit where due. 
 
