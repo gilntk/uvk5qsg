@@ -1,3 +1,8 @@
+---
+title: Install CHIRP
+parent: Get CHIRP First
+nav_order: 1
+---
 
 # Install CHIRP
 
