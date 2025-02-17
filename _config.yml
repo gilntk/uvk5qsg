@@ -3,9 +3,5 @@ description: Just the basics to get you up and running with the most useful sett
 url: https://gilntk.github.io/uvk5qsg
 repository: just-the-docs/just-the-docs # for github-metadata
 
-
-theme: just-the-docs
-
-
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
