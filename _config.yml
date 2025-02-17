@@ -1,6 +1,7 @@
 title: Quick Start for the UV-K5
 description: Just the basics to get you up and running with the most useful settings on your new HT.
 url: https://gilntk.github.io/uvk5qsg
+baseurl: ""
 repository: just-the-docs/just-the-docs # for github-metadata
 
 permalink: pretty
